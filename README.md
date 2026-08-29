@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 📊 Data Automation & Python (Pandas) Specialist
 
-I help businesses save time by automating routine data processing, cleaning messy Excel/CSV files, and extracting key sales metrics.
+I help businesses save time by automating routine data processing, cleaning messy CSV files, and extracting key sales metrics.
 
 ---
 
